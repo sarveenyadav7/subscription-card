@@ -1,10 +1,5 @@
-import { useState } from "react"
 
 function  Subscriptioncard(){
-    // const Subscription = () => {
-    //     let[ language]
-    // }
-
     return(
         <>
             <div className="play-card-outer">
